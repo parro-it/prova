@@ -1,0 +1,2 @@
+# gomod
+go module template
